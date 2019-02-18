@@ -36,6 +36,11 @@
       margin-right: 5px;
     }
 
+    &--submit {
+      color: #fff;
+      border: 1px solid #fff;
+    }
+
     .material-icons {
       position: absolute;
       top: 50%;
@@ -59,9 +64,6 @@
     }
   }
 
-  button[type="submit"] {
-    color: #757575;
-  }
   
   
  

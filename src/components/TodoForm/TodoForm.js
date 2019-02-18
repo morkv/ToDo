@@ -54,7 +54,7 @@ class TodoFormForm extends Component {
                                     inputPlaceholder={'Enter ToDo Title'}
                                     inputOnChange={this.handleChange}
                                 />
-                                <Button type="submit">Add</Button>
+                                <Button className="btn btn--submit" type="submit">Add</Button>
                             </Form>
                         </Col>
                     </Row>
