@@ -1,0 +1,18 @@
+/* Todo form */
+.todo-add-form {
+    background-color: #000;
+}
+
+.todo-add-form input {
+    flex: 1;
+    outline: none;
+    transition: background .2s ease-in;
+}
+
+.todo-add-form input:focus {
+    border: 1px solid #fff;
+}
+
+.todo-add-form button {
+    margin-left: 10px;
+}
